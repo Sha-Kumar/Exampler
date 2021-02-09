@@ -3,6 +3,8 @@ Contains machine learning lab programs i.e 10 lab programs in the Machine Learni
 
 # Requirements 
 - python (version 3 or above)
+- pgmpy package([Click Here for Install.](https://github.com/pgmpy/pgmpy#installation))
+- bokeh package
 
 
 # Run
